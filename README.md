@@ -13,8 +13,8 @@ Comment lancer le projet :
 Etape 1: cloner le projet
 
 ```bash
-git clone https://gitlab.univ-nantes.fr/pub/but/but2/sae/groupe3/eq_3_02_rolland-estevan_salou-zahra_tong-hatet-mathis_ymamou-yassar.git
-cd eq_3_02_rolland-estevan_salou-zahra_tong-hatet-mathis_ymamou-yassar\images_php_sqlite
+git clone https://github.com/Estevan-ROLLAND/SMIYC-perfume-website.git
+cd SMIYC-perfume-website\images_php_sqlite
 ```
 
 Etape 2: créer le container
